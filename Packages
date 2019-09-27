@@ -1,0 +1,40 @@
+Package: com.r333d.eqe
+Version: 2.0.10~beta
+Section: Tweaks
+Maintainer: nn9dev <nn9dev@gmail.com>
+Depends: com.rpetrich.rocketbootstrap (>= 1.0.6), firmware (<< 13), mobilesubstrate, dpkg, coreutils
+Architecture: iphoneos-arm
+Filename: ./debs/eqe_2.0.10~beta.deb
+Size: 5069110
+MD5sum: 4833e9ce2b9e4ea07d5adc1127574e6b
+Description: System-wide parametric equalizer
+Name: EQE
+Author: r333d <rweichler+cydia+eqe@gmail.com>
+
+Package: com.sull.localiapstore
+Version: 1.4-1
+Priority: optional
+Section: Tweaks
+Maintainer: nn9dev <nn9dev@gmail.com>
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.sull.localiapstore_1.4-1_iphoneos-arm.deb
+Size: 71082
+MD5sum: 3f5ba4179dd08625fefe898417e7777a
+Description: Pwns In-app purchases on iOS 5.1.1 - 7.1 (works with developer servers,in-appstore.com DNS needed). 64bit compatible
+Name: LocalIAPStore
+Author: anondev
+
+Package: com.yourepo.nn9.bytafont3
+Version: 3.5
+Section: System
+Maintainer: nn9 <nn9dev@gmail.com>
+Depends: firmware (>= 9), unzip, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.yourepo.nn9.bytafont3_3.5_iphoneos-arm.deb
+Size: 779992
+MD5sum: 8ee5e4f6e858cd6fd6025f7ccfcbd467
+Description: BytaFont 3 lets you apply fonts to your iDevice in few taps.
+Name: BytaFont 3
+Author: BytaFont.com <info@bytafont.com>
+
