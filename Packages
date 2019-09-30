@@ -46,9 +46,9 @@ Depends: mobilesubstrate, ws.hbang.common (>= 1.11), net.limneos.libbulletin (>=
 Conflicts: com.thecasle.straw
 Architecture: iphoneos-arm
 Filename: ./debs/com.thecasle.straw_0.1.2~64e-1+debug_iphoneos-arm.deb
-Size: 12516
+Size: 12528
 Installed-Size: 296
-MD5sum: 49dd32d984bc0fc671b5f0a93a7352e0
+MD5sum: 6d24cb7cbd151384be5e5f57ea324a75
 Description: Creates banner on music item change
 Name: straw
 Author: Jake Kaslewicz
