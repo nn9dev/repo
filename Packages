@@ -38,7 +38,7 @@ Description: BytaFont 3 lets you apply fonts to your iDevice in few taps.
 Name: BytaFont 3
 Author: BytaFont.com <info@bytafont.com>
 
-Package: comcom.thecasle.straw
+Package: com.thecasle.straw
 Version 0.1.1-1+debug
 Section: Tweaks
 Maintainer nn9dev <nn9dev@gmail.com>
