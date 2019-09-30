@@ -38,16 +38,17 @@ Description: BytaFont 3 lets you apply fonts to your iDevice in few taps.
 Name: BytaFont 3
 Author: BytaFont.com <info@bytafont.com>
 
-Package: com.thecasle.straw
-Version: 0.1.1-1+debug
+Package: com.thecasle.straw-64e
+Version: 0.1.2~64e+debug
 Section: Tweaks
 Maintainer: nn9dev <nn9dev@gmail.com>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), net.limneos.libbulletin (>= 0.1-145)
+Conflicts: com.thecasle.straw
 Architecture: iphoneos-arm
-Filename: ./debs/com.thecasle.straw_0.1.1-1+debug_iphoneos-arm.deb
-Size: 12506
+Filename: ./debs/com.thecasle.straw_0.1.2~64e-1+debug_iphoneos-arm.deb
+Size: 12516
 Installed-Size: 296
-MD5sum: 857d279147962cf6adc0b62491bda2e3
+MD5sum: 49dd32d984bc0fc671b5f0a93a7352e0
 Description: Creates banner on music item change
 Name: straw
 Author: Jake Kaslewicz
