@@ -39,7 +39,7 @@ Name: BytaFont 3
 Author: BytaFont.com <info@bytafont.com>
 
 Package: com.thecasle.straw-64e
-Version: 0.1.2~64e+debug
+Version: 0.1.2~64e-1+debug
 Section: Tweaks
 Maintainer: nn9dev <nn9dev@gmail.com>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), net.limneos.libbulletin (>= 0.1-145)
