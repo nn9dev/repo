@@ -39,13 +39,14 @@ Name: BytaFont 3
 Author: BytaFont.com <info@bytafont.com>
 
 Package: com.thecasle.straw
-Version 0.1.1-1+debug
+Version: 0.1.1-1+debug
 Section: Tweaks
-Maintainer nn9dev <nn9dev@gmail.com>
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), net.limneos.libbulletin (>= 0.1-145)
+Maintainer: nn9dev <nn9dev@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), net.limneos.libbulletin (>$
 Architecture: iphoneos-arm
 Filename: ./debs/com.thecasle.straw_0.1.1-1+debug_iphoneos-arm.deb
 Size: 12506
+Installed-Size: 296
 MD5sum: 857d279147962cf6adc0b62491bda2e3
 Description: Creates banner on music item change
 Name: straw
