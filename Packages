@@ -42,7 +42,7 @@ Package: com.thecasle.straw
 Version: 0.1.1-1+debug
 Section: Tweaks
 Maintainer: nn9dev <nn9dev@gmail.com>
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), net.limneos.libbulletin (>$
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), net.limneos.libbulletin (>= 0.1-145)
 Architecture: iphoneos-arm
 Filename: ./debs/com.thecasle.straw_0.1.1-1+debug_iphoneos-arm.deb
 Size: 12506
