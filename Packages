@@ -45,7 +45,7 @@ Maintainer: nn9dev <nn9dev@gmail.com>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), net.limneos.libbulletin (>= 0.1-145)
 Conflicts: com.thecasle.straw
 Architecture: iphoneos-arm
-Filename: ./debs/com.thecasle.straw_0.1.2~64e-1+debug_iphoneos-arm.deb
+Filename: ./debs/com.thecasle.straw-64e_0.1.2~64e-1+debug_iphoneos-arm.deb
 Size: 12528
 Installed-Size: 296
 MD5sum: 6d24cb7cbd151384be5e5f57ea324a75
